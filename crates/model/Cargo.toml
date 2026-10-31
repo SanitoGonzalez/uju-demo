@@ -1,0 +1,7 @@
+[package]
+name = "uju-demo-model"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+uju.workspace = true

@@ -1,0 +1,3 @@
+[net]
+# fetch through the system git, so SSH keys and ~/.ssh/config apply
+git-fetch-with-cli = true

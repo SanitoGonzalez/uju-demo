@@ -1,0 +1,11 @@
+[package]
+name = "uju-demo-edge"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+uju.workspace = true
+uju-demo-model.workspace = true
+
+anyhow.workspace = true
+tracing-subscriber.workspace = true
